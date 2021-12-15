@@ -1,0 +1,6 @@
+node_modules/
+*.com
+*.class
+
+
+/nbproject/private/
