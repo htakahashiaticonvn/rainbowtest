@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from './appLogo.png';
-angualr.module('filesStorageService');
+angular.module('filesStorageService');
 import rainbowSDK from 'rainbow-web-sdk';
 import './App.css';
 
